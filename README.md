@@ -1,5 +1,5 @@
 # MyPandaPal
-MyPandaPal developed by Edwin Or from University of Toronto with three teammates Sophie Luo, Eric Zhou and Dylan Sta Ana from Western University during QHack from 2023 Jan 27-29 at Queens University. It is an Chrome extension that features real-time notifications when it's time for busy university student to eat, drink, sleep or exercise.
+MyPandaPal developed by Edwin Or from Western University with three teammates Sophie Luo, Eric Zhou and Dylan Sta Ana during QHack from 2023 Jan 27-29 at Queens University. It is an Chrome extension that features real-time notifications when it's time for busy university student to eat, drink, sleep or exercise.
 
 As busy university students trying to balance the stress of attending back-to-back classes, keeping up with coursework, attending a lot of meetings, and juggling a whole lot of extracurriculars, it can be easy to forget about maintaining healthy habits. We often forget to properly sit down to eat a meal, drink water, exercise regularly, and sleep enough hours. We've all been there and have had classes starting at 8 am in the morning and meetings ending at 9 pm at night, resulting in us completely losing track of healthy habits!
 
